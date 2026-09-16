@@ -1,0 +1,16 @@
+{
+  "name": "cypress-actions-pipeline",
+  "version": "1.0.0",
+  "description": "Teste E2E com Cypress para o formulario de Actions (example.cypress.io), com pipeline agendado no GitHub Actions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^16.0.0"
+  }
+}

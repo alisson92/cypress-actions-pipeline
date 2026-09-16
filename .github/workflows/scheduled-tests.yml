@@ -3,7 +3,7 @@ name: Testes Cypress - Formulario de Actions
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 21 * * *'
+    - cron: '10 22 * * *'
       timezone: 'America/Sao_Paulo'
 
 jobs:
